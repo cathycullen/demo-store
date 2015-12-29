@@ -1,0 +1,11 @@
+// Navbar Customization
+
+.navbar-myapp {
+  margin-bottom: 40px;
+  border-top: none;
+  border-bottom: 1px solid $navbar-default-toggle-icon-bar-bg;
+
+  .navbar-brand {
+    padding: 15px;
+  }
+}

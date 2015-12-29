@@ -1,0 +1,9 @@
+// Spree Bootstrap Override
+
+// Core
+@import "variables";
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+// Custom Overrides
+@import "navbar";

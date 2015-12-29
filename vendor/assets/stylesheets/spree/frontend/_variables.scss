@@ -1,0 +1,15 @@
+// Place all Sass variables here.
+
+// Colors
+$brand-primary: green;
+$gray: #aaa;
+
+// Navbar
+$navbar-default-bg: #fff;
+$navbar-height: 100px;
+$navbar-border-radius: 0;
+$navbar-default-border: none;
+$navbar-default-toggle-hover-bg: $navbar-default-bg;
+$navbar-default-toggle-icon-bar-bg: lighten($gray, 60%);
+$navbar-default-toggle-border-color: $navbar-default-bg;
+$navbar-default-link-active-bg: $brand-primary;
